@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/sameerpanthi/TANDAV_X_USERBOT.git /root/userbot
+RUN git clone https://github.com/TEAM-TANDAV-X/Snoopy_The_bot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
