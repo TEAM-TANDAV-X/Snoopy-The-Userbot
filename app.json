@@ -1,7 +1,7 @@
 {
-  "name": "Tandav_X_bot",
+  "name": "Snoopy_bot",
   "description": "The best userbot made by @TANDAV_X_MAHADEV_BAM_BHOLE. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @TANDAV_USERBOT_SUPPORT",  
-  "logo": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
+  "logo": "https://telegra.ph/file/acab897abed18712e12e5.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/TANDAV_X_BOT/",
+  "repository": "https://github.com/TEAM-TANDAV-X/Snoopy_The_Userbot/",
   "website": "https://github.com/sameerpanthi/tandav_x_bot/",
   "success_url": "https://t.me/deadly_bot",
   "env": {
@@ -34,17 +34,17 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
-      "value": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
+      "value": "https://telegra.ph/file/acab897abed18712e12e5.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ Tᗩᑎᗪᗩᐯ ᗷOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ SNOOPY BOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg",
+      "value": "https://telegra.ph/file/acab897abed18712e12e5.jpg",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
