@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>𝐓𝐀𝐍𝐃𝐀𝐕 𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
+<b>SNOOPY 𝐗 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 {🇮🇳}</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/f93ee04d5ced117ce9b55.jpg" alt="The-PANTHERS BOT">
@@ -23,7 +23,7 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/TANDAV_X_MAHADEV_BAM_BHOLE)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/SnoopyUserbotSupport)
 
 ---------------
 
@@ -65,7 +65,7 @@
 
 
 - We won't be responsible for any kind of ban due to this bot.
-- TANDAV X BOT was made for fun purpose and to make group management easier.
+- SNOOPY BOT was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
