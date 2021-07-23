@@ -23,7 +23,7 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [『𝚂𝙰𝙼𝙴𝙴𝚁』](https://t.me/SnoopyUserbotSupport)
+## SnoopyxD : [『SnoopyxD』](https://t.me/Always_Sed_af)
 
 ---------------
 
